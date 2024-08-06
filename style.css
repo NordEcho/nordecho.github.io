@@ -22,6 +22,7 @@ html, body{
   background-size: cover;
 
 }
+
 .vertical-center {
     min-width: 100%;
     margin: 0;
@@ -32,8 +33,10 @@ html, body{
     filter: drop-shadow(0 0 1rem black);
     text-align: center;
   }
-  p{filter: drop-shadow(1 1 1rem black);}
-  a{
+
+p{filter: drop-shadow(1 1 1rem black);}
+
+a{
     color: white;
     filter: drop-shadow(1 1 1rem black);
   }
