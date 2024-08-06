@@ -6,8 +6,9 @@ html, body{
     height:100%;
     width: 100%;
     color:black;
-    background-color: black;
+    background-color: white;
     font-family: "DM Sans", sans-serif;
+    text-shadow: 2px 2px black;
 }
 
 .imgdiv{
